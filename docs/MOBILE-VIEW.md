@@ -79,6 +79,7 @@ See the [desktop readme (3 columns)](../README.md)
 | ![mountains.png](../wallpapers/mountains.png) mountains.png |
 | ![nasa-japan-dark.png](../wallpapers/nasa-japan-dark.png) nasa-japan-dark.png |
 | ![nix.png](../wallpapers/nix.png) nix.png |
+| ![nixx.png](../wallpapers/nixx.png) nixx.png |
 | ![openbox.png](../wallpapers/openbox.png) openbox.png |
 | ![p2oowm.png](../wallpapers/p2oowm.png) p2oowm.png |
 | ![pink-sky-mountains.png](../wallpapers/pink-sky-mountains.png) pink-sky-mountains.png |
