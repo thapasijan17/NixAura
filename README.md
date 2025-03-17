@@ -1,6 +1,6 @@
 # Nixy Wallpapers
 
-A collection of wallpapers for [Nixy](https://github.com/anotherhadi/nixy).
+A collection of wallpapers for NixOS.
 See the [mobile readme (1 columns)](./docs/MOBILE-VIEW.md)
 
 | Preview |    |    |
@@ -38,4 +38,4 @@ See the [mobile readme (1 columns)](./docs/MOBILE-VIEW.md)
 | ![sun.png](./wallpapers/sun.png) sun.png | ![the-road-black.png](./wallpapers/the-road-black.png) the-road-black.png | ![tokyo.png](./wallpapers/tokyo.png) tokyo.png |
 | ![train.png](./wallpapers/train.png) train.png | ![v.png](./wallpapers/v.png) v.png | ![vanilla.png](./wallpapers/vanilla.png) vanilla.png |
 | ![wave-dark.png](./wallpapers/wave-dark.png) wave-dark.png | ![windows.png](./wallpapers/windows.png) windows.png | ![wp.png](./wallpapers/wp.png) wp.png |
-| ![x6kv.png](./wallpapers/x6kv.png) x6kv.png | ![zywgxy.png](./wallpapers/zywgxy.png) zywgxy.png |
+| ![x6kv.png](./wallpapers/x6kv.png) x6kv.png | ![zywgxy.png](./wallpapers/zywgxy.png) zywgxy.png | ![nixx.png](./wallpapers/nixx.png) 
